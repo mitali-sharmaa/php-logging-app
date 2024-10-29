@@ -19,5 +19,5 @@ This project implements application logging in PHP using Monolog, a widely-used 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/my-php-logging-project.git
+   git remote add origin https://github.com/mitali-sharmaa/php-logging-app.git
    cd my-php-logging-project
