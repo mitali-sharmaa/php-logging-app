@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'nayeem/my-php-logging-project',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'fe46b8f5e6d577ffc0ac39b45c00b8671840502a',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'nayeem/my-php-logging-project' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'fe46b8f5e6d577ffc0ac39b45c00b8671840502a',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

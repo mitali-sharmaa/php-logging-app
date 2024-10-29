@@ -2,3 +2,5 @@
 [2024-10-29T01:46:56.150698+01:00] appLogger.ERROR: This is an error log entry. [] []
 [2024-10-29T01:48:38.646872+01:00] appLogger.ERROR: This is an error log entry. [] []
 [2024-10-29T01:48:47.507507+01:00] appLogger.ERROR: This is an error log entry. [] []
+[2024-10-29T02:26:46.958374+01:00] appLogger.ERROR: This is an error message. [] []
+[2024-10-29T02:28:20.285876+01:00] appLogger.ERROR: This is an error message. [] []

@@ -1,7 +1,6 @@
 {
-    "name": "nayeem/my-php-logging-project",
-    "description": "A PHP logging project using Monolog",
-    "type": "project",
+    "name": "mital/lab7",
+    "description": "A PHP project for application logging using Monolog.",
     "require": {
         "monolog/monolog": "^3.7"
     },
@@ -9,13 +8,5 @@
         "psr-4": {
             "App\\": "src/"
         }
-    },
-    "authors": [
-        {
-            "name": "Abdun Nayeem Khan",
-            "email": "nayeem0073297@gmail.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "license": "MIT"
+    }
 }
