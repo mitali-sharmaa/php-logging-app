@@ -1,0 +1,8 @@
+[2024-10-29T01:45:45.507105+01:00] appLogger.INFO: This is an informational log entry. [] []
+[2024-10-29T01:45:45.508499+01:00] appLogger.ERROR: This is an error log entry. [] []
+[2024-10-29T01:46:56.149082+01:00] appLogger.INFO: This is an informational log entry. [] []
+[2024-10-29T01:46:56.150698+01:00] appLogger.ERROR: This is an error log entry. [] []
+[2024-10-29T01:48:38.644722+01:00] appLogger.INFO: This is an informational log entry. [] []
+[2024-10-29T01:48:38.646872+01:00] appLogger.ERROR: This is an error log entry. [] []
+[2024-10-29T01:48:47.506203+01:00] appLogger.INFO: This is an informational log entry. [] []
+[2024-10-29T01:48:47.507507+01:00] appLogger.ERROR: This is an error log entry. [] []
